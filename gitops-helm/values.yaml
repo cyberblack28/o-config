@@ -5,7 +5,7 @@ label: giops
 replicas: 3
 image:
   repository: kix.ocir.io/orasejapan/yutichik/gitops-go-app
-  tag: 11
+  tag: 12
 
 imageConfig:
   pullPolicy: IfNotPresent
